@@ -1,3 +1,3 @@
-module github.com/DingDong039/interface/AirQualityReading
+module Smart-City-PM
 
 go 1.22.6
